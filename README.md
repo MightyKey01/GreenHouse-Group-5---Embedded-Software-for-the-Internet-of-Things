@@ -7,6 +7,7 @@ Our automaic greenhouse code implements a few sensor:
 - Soil Humidity
 - Air Humidity and Temperature
 - Water Level
+
 We also implement an interface to a Wi-Fi module so we are able to comunicate with a TelegramBot and so ask information about our plants everytime and everywhere we want.
 
 Project build using Arduino.
