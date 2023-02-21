@@ -4,11 +4,11 @@ Our main idea was to build something that interact a lot with the stream of data
 Take care of plants sometimes can be hard but we think that with the help of computers and sensors even the worst can do it. So why don’t build a greenhouse that gives you all the informations that you need to make growth healthy your plants.
 Our automaic greenhouse code implements a few sensor:
 - Light (TSL2561)
-- Soil Humidity
-- Air Humidity and Temperature
-- Water Level
+- Soil Humidity (4260581553784AzDelivery)
+- Air Humidity and Temperature (DHT11)
+- Water Level (HW038)
 
-We also implement an interface to a Wi-Fi module so we are able to comunicate with a TelegramBot and so ask information about our plants everytime and everywhere we want.
+We also implement an interface to a Wi-Fi module (ESP8266) so we are able to comunicate with a TelegramBot and so ask information about our plants everytime and everywhere we want.
 
 Project build using Arduino.
 
