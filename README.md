@@ -8,7 +8,7 @@ Our automaic greenhouse code implements a few sensor:
 - Air Humidity and Temperature (DHT11)
 - Water Level (HW038)
 
-We also implement an interface to a Wi-Fi module (ESP8266) so we are able to comunicate with a TelegramBot and so ask information about our plants everytime and everywhere we want.
+We also implement an interface to a Wi-Fi module (ESP82666) so we are able to comunicate with a TelegramBot and so ask information about our plants everytime and everywhere we want.
 
 Project build using Arduino.
 
