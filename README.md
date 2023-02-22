@@ -12,6 +12,6 @@ We also implement an interface to a Wi-Fi module (ESP82666) so we are able to co
 
 Project build using Arduino.
 
-Presentation https://www.canva.com/design/DAFXXn3hzpQ/ONdpgGa5EhInEXMDYYjOgg/view utm_content=DAFXXn3hzpQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+Presentation https://www.canva.com/design/DAFXXn3hzpQ/ONdpgGa5EhInEXMDYYjOgg/view 
 
 Copyright: Github repository of Embedded Software for the Internet of Things exam project. Automatic GreenHouse by group 05 alias Cristoforetti Sara, Radaelli Nicola and Festi Gianluca.
